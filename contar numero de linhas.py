@@ -37,3 +37,4 @@ def start():
         
 
 start()
+input('Pressione qualquer tecla para terminar')
